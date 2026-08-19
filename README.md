@@ -15,4 +15,4 @@ I am a Computer Science student at Petra University (UOP) with a passion for sof
 ## ⚡ Fun fact:
 When I'm not coding, you can usually find me watching football (Visca el Barça!), keeping up with F1 races, or playing a game of chess or Tarneeb. 
 
-📫 **How to reach me:** (https://www.linkedin.com/in/mohammadalijabri)
+📫 **How to reach me:** ([https://www.linkedin.com/in/mohammadalijabri](https://www.linkedin.com/in/mohammad-ali-jabri/))
